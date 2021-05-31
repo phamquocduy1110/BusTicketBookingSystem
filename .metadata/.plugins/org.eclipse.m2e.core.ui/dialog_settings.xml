@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\BusTicketBookingSystem\booking-bus"/>
 			<item value="D:\BusTicketBooking\booking-bus\booking-bus"/>
 			<item value="D:\BusTicketBooking\bookingbus"/>
 			<item value="D:\HKII 2020-2021\SoftwareArchitecture\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin"/>

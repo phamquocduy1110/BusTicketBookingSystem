@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\BusTicketBooking\\bookingbus\\.git;
-GitRepositoriesView.GitDirectories.relative=bookingbus\\.git;
+GitRepositoriesView.GitDirectories=D\:\\BusTicketBookingSystem\\bookingbus\\.git;D\:\\BusTicketBookingSystem\\.git;
+GitRepositoriesView.GitDirectories.relative=bookingbus\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
